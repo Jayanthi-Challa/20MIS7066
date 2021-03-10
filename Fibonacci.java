@@ -16,4 +16,5 @@ public class Fibonacci{
 		}
 		System.out.println(sum);
 	}
+        System.out.println();
 }
